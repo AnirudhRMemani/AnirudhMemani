@@ -2,8 +2,6 @@
 
 Forever chasing the horizon.
 
-![dance-works (1)](https://github.com/user-attachments/assets/35ecc13d-ec62-4844-829e-b1c71bf317bc)
-
 <a href="https://git.io/streak-stats" target="_blank">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000&card_width=696" alt="GitHub Streak" />
 </a>
